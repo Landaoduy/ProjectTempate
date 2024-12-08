@@ -1,7 +1,6 @@
 ![](UTA-DataScience-Logo.png)
 
-# Bank Customer Churn Prediction
-
+# Project title
 * **One Sentence Summary** Ex: This repository holds an attempt to apply LSTMs to Stock Market using data from
 "Get Rich" Kaggle challenge (provide link). 
 
